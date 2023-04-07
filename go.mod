@@ -1,8 +1,8 @@
-module github.com/applehat/gobible-generator-lds
+module github.com/gobible/generator-lds
 
 go 1.19
 
-//replace github.com/applehat/gobible => ../go-bible
+
 
 require (
 	github.com/JohannesKaufmann/html-to-markdown v1.3.7
