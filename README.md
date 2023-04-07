@@ -14,7 +14,7 @@ go run .
 
 The output will be a file called `lds-scriptures.json` in the current directory.
 
-# For Members of the Church of Jesus Christ of Latter-day Saints
+# To Latter-day Saints
 
 The main intention of this tool was to provide Christians with reference of LDS scriptures and beliefs to help them share the Gospel with Mormons.
 
